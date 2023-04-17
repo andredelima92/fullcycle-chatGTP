@@ -7,4 +7,7 @@ require (
 	github.com/j178/tiktoken-go v0.2.1
 )
 
-require github.com/sashabaranov/go-openai v1.5.8 // indirect
+require (
+	github.com/devfullcycle/fclx/chatservice v0.0.0-20230417041318-4ef0da72333b
+	github.com/sashabaranov/go-openai v1.5.8 // indirect
+)
